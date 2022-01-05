@@ -1,5 +1,11 @@
-### Merhaba Dünya 👋
+## Hi there, I'm Gül aka - @rosestrikesback 👋
+# I'm a student and I'm here to learn a lot of new things ✨
+### 👩‍🎓 I am studying at Isık University. 
+### 💻 I am currently learning Computer Programming.
+### Project management, data security, probability and statistic are my fields of interests.
+### Leading a group, motivating them and taking responsibility is important to me. I can help if you already have a project but to manage has become difficult.
 
+  
 <!--
 **rosestrikesback/rosestrikesback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
